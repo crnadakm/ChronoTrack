@@ -1,0 +1,5 @@
+{
+  "name": "ChronoTrack - Personal Time Counters",
+  "description": "A sophisticated time-tracking application that allows you to create multiple counters for various life events, habits, or milestones, showing exactly how much time has passed since a specific date and time.",
+  "requestFramePermissions": []
+}

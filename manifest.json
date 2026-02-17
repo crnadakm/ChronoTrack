@@ -1,0 +1,34 @@
+
+{
+  "short_name": "ChronoTrack",
+  "name": "ChronoTrack - Time Counters",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3563/3563395.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f8fafc",
+  "orientation": "portrait",
+  "shortcuts": [
+    {
+      "name": "Novi Counter",
+      "short_name": "Novi",
+      "description": "Brzo dodaj novi counter",
+      "url": "./?action=new",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3563/3563395.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Svi Counteri",
+      "short_name": "Lista",
+      "description": "Otvori listu svih countera",
+      "url": "./?view=list",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3563/3563395.png", "sizes": "192x192" }]
+    }
+  ]
+}
